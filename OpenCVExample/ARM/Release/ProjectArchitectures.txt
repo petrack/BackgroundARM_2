@@ -1,0 +1,1 @@
+C:\Users\Petra\Documents\OpenCVExample\OpenCVExample\OpenCVExample.vcxproj;arm
